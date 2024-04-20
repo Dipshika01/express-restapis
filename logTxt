@@ -1,0 +1,22 @@
+1712721814286 : GET : /users1712721857842 : POST : /api/users
+
+1712721971500 : POST : /api/users
+1712725314998 : ::1 : POST : /api/users
+1712725338738 : ::1 : POST : /api/users
+1712725358288 : ::1 : POST : /api/users
+1712725376843 : ::1 : POST : /api/users
+1712725433716 : ::1 : POST : /api/users
+1712725479572 : ::1 : POST : /api/users
+1712725518110 : ::1 : POST : /api/users
+1712725695565 : ::1 : POST : /api/users
+1712725946370 : ::1 : GET : /users
+1712726106890 : ::1 : GET : /api/users
+1712726271064 : ::1 : GET : /api/users/66161e0ec5824f8acaa3b8ed
+1712726364105 : ::1 : GET : /api/users/66161e0ec5824f8acaa3b8ed
+1712726399154 : ::1 : GET : /api/users/66161e0ec5824f8acaa3b8ed
+1712726425524 : ::1 : GET : /api/users/66161e0ec5824f8acaa3b8ed
+1712726605193 : ::1 : GET : /api/users/66161ebfb6a4c44e96f64d6d
+1712726650022 : ::1 : PATCH : /api/users/66161ebfb6a4c44e96f64d6d
+1712726813927 : ::1 : PATCH : /api/users/66161ebfb6a4c44e96f64d6d
+1712726937307 : ::1 : POST : /api/users
+1712727023329 : ::1 : DELETE : /api/users/66162399b6800ed9ef8c7af0

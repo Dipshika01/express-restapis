@@ -1,0 +1,16 @@
+{
+  "name": "restapis",
+  "version": "1.0.0",
+  "description": "Creating restApis using node",
+  "main": "index.js",
+  "scripts": {
+    "test": "RestApis",
+    "start": "node index.js"
+  },
+  "author": "Dipshika",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.1"
+  }
+}

@@ -1,0 +1,14 @@
+designing restApis which supports json
+
+GET /users - HTML Document render
+GET /api/users - list all users
+GET /api/users/1 - get the user with id 1
+GET /api/users/2 - get the users with id 2
+
+
+P0ST /api/users - create a new user
+PATCH /users/id - edit a user with id 1
+
+DELETE /users/1 - Deletes the user with id 1
+
+dyanmic path parameters :- GET /api/users/:id where id is a variable
